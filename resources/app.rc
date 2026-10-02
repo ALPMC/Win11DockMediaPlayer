@@ -1,0 +1,8 @@
+#include <windows.h>
+
+1 24 "app.manifest"
+
+IDR_PLAYER_PNG  RCDATA  "player.png"
+IDR_PLAY_PNG    RCDATA  "play.png"
+IDR_PAUSE_PNG   RCDATA  "pause.png"
+"LOOP_PNG"    RCDATA  "loop.png" 
